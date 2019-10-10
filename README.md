@@ -1,5 +1,5 @@
-# Writing READMEs README
-
+# Writing READMEs READ
+edited By Ja'wan core
 Udacity's course _Writing READMEs_ explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
 
 ## Resources
